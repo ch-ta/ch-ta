@@ -1,7 +1,7 @@
 <h1 align="center">Hello there.<br /> <img align="center" src="./assets/images/hellothere.jpg" height="100px" /></h1>
 
 <div align="center">
-  <a href="https://krunk-juice.github.io"><img src="https://img.shields.io/badge/Landing-seagreen?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://ch-ta.github.io"><img src="https://img.shields.io/badge/Landing-seagreen?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/chris-ta"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)" /></a>
 </div>
 
